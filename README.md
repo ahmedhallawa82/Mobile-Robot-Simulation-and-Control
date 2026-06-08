@@ -32,7 +32,7 @@ An autonomous robot capable of tracking a predefined path using:
 
 ### Hardware Implementation
 
-![Robot Hardware](Hardware/Robot_Hardware.jpg)
+![Robot Hardware](Hardware/Robot_Hardware.jpeg)
 
 ---
 
