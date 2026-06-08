@@ -139,10 +139,10 @@ Eng. Ahmed Adel Ghoneimy
 
 ## Team Members
 
-- Mahmoud Mohamed Shamekh
-- Youssef Ayad
-- Mohsen Hany Mohsen
-- Barthinia Hany
+- Ahmed Essam Yehia Hallawa
+- Mostafa Ashraf
+- Ahmed Magdy
+- Eyad Waled
 
 ---
 
