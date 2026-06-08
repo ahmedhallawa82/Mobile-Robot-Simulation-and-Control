@@ -42,6 +42,14 @@ An autonomous robot capable of tracking a predefined path using:
 
 ---
 
+## 🎥 Demonstration
+
+![Robot Demo](Media/line_follower_demo.gif)
+
+The GIF above shows the robot during the official Mobile Robots course competition, where it successfully completed the track using a PID-based line tracking system and achieved one of the top performances in the event.
+
+---
+
 ### Line Follower Simulation
 
 ![Line Follower](Media/Line_Follower.gif)
